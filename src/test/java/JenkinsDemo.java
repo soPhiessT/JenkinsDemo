@@ -6,6 +6,7 @@ public class JenkinsDemo {
         int a = 5;
         int b = 10;
         int c = 20;
-        System.out.println(a + b + c);
+        int d = 30
+        System.out.println(a + b + c + d);
     }
 }
